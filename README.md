@@ -9,7 +9,7 @@ The theme is designed for 'dark' interfaces, starting from the base of the defau
 
 Please feel free to use the theme if you wish, or alter it to your liking. The theme is not final and I will be tweaking it over time. The theme can always be considered a work-in-progress.
 
-## Android Studio / IntelliJ
+## Android Studio / IntelliJ 🤖
 
 Started from the default Darcula theme, so uses the same background colour as this and uses Roboto Mono font.
 
@@ -36,7 +36,7 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 4. Next to 'Scheme' select the cog and `Import Scheme...`
 5. Select either `LordCodes-Syntax.jar` or `LordCodes-Syntax.icls`, either should work the same.
 
-## Xcode
+## Xcode 📱
 
 Started from the default Xcode 10 dark theme, so uses the same background colour as this and uses SF Mono font.
 
@@ -54,3 +54,12 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 3. Copy the file `xcode/LordCodes-Syntax.xccolortheme` into the folder.
+
+## Attribution
+
+Inspiration was taken from many sources when putting the theme together. This included how to constrast pairs of colours, ideas for colours to go with for certain parts of syntax to specific colours selected for the theme. There may be other areas of indirect inspiration as well! If you recognise anything in my theme from something of yours, please reach me on [Twitter](https://twitter.com/lordcodes) and I will add you below.
+
+- Dark theme at https://romannurik.github.io/SlidesCodeHighlighter/ - thanks to [@romannurik](https://github.com/romannurik)
+- SundellColors at https://github.com/JohnSundell/XcodeTheme - thanks to [@johnsundell](https://github.com/JohnSundell)
+- Darcula theme in Android Studio
+- Default (Dark) theme in Xcode 10
