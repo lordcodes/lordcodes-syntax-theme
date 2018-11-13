@@ -44,7 +44,6 @@ Primarily optimised for Swift, but should also apply in same way to Obj-C.
 
 ### Usage
 
-You can also choose to do things manually if you want:
 1. Clone this repo or download it as a Zip.
 ```
 $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
