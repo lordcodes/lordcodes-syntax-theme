@@ -1,4 +1,4 @@
-# LordCodes Syntax - A code colour theme 🖍 ⌨️
+# Lordcodes Syntax - A code colour theme 🖍 ⌨️
 
 Here I store the code theme I use in a variety of formats.
 
