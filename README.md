@@ -62,3 +62,7 @@ Inspiration was taken from many sources when putting the theme together. This in
 - SundellColors at https://github.com/JohnSundell/XcodeTheme - thanks to [@johnsundell](https://github.com/JohnSundell)
 - Darcula theme in Android Studio
 - Default (Dark) theme in Xcode 10
+
+## Author
+
+Andrew Lord [@lordcodes](https://twitter.com/@lordcodes)
