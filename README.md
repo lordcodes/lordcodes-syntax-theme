@@ -1,9 +1,10 @@
-# Lordcodes Syntax - A code colour theme 🖍 ⌨️
+# Lord Codes Syntax - A code colour theme 🖍 ⌨️
 
 Here I store the code theme I use in a variety of formats.
 
-1. Android Studio / IntelliJ
-2. Xcode
+1. [Android Studio / IntelliJ](https://github.com/lordcodes/lordcodes-syntax-theme#android-studio--intellij-)
+2. [Xcode](https://github.com/lordcodes/lordcodes-syntax-theme#xcode-)
+3. [Web - Rouge CSS](https://github.com/lordcodes/lordcodes-syntax-theme#web---rouge-css)
 
 The theme is designed for 'dark' interfaces, starting from the base of the default dark themes for each tool. Each colour was chosen to have an appropriate level of constrast for accessibility and readability.
 
@@ -27,7 +28,7 @@ Optimised for Kotlin and Java, but colours also provided for other syntax types.
 
 The repository contains both 'LordCodes Syntax.icls' and 'LordCodes Syntax.jar'.
 
-1. Clone this repo or download it as a Zip.
+1. Clone this repository or download it as a zip.
 ```
 $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ```
@@ -44,7 +45,7 @@ Primarily optimised for Swift, but should also apply in same way to Obj-C.
 
 ### Usage
 
-1. Clone this repo or download it as a Zip.
+1. Clone this repository or download it as a zip.
 ```
 $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ```
@@ -53,6 +54,18 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 3. Copy the file `xcode/LordCodes-Syntax.xccolortheme` into the folder.
+
+## Web - Rouge CSS
+
+Includes the SASS files for applying the syntax theme on web, using the [Rouge syntax highlighter](https://github.com/jneen/rouge). Rouge is commonly used with the Jekyll static site generator, which is where the theme has been tested.
+
+### Usage
+
+1. Clone this repository or download it as a zip.
+```
+$ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
+```
+2. Copy and paste the files from `web-rouge` to your project's SASS location.
 
 ## Attribution
 
