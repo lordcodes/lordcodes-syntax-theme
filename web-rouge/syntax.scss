@@ -1,0 +1,215 @@
+.highlight {
+
+  // .w  = Text.Whitespace
+  .w {}
+
+  // .err = Error
+  .err {
+    color: $color-code-lexer-error;
+    background-color: $color-code-lexer-error-background;
+  }
+
+  // .c  = Comment
+  // .cd = Comment
+  // .cm = Comment.Multiline
+  // .cp = Comment.Preproc
+  // .c1 = Comment.Single
+  .c,
+  .cd,
+  .cm,
+  .cp,
+  .c1 {
+    color: $color-code-comment;
+  }
+
+  // .cs = Comment.Special
+  .cs {
+    color: $color-code-comment-special;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  // .k  = Keyword
+  // .kc = Keyword.Constant
+  // .kd = Keyword.Declaration
+  // .kn = Keyword.Namespace
+  // .kp = Keyword.Pseudo
+  // .kr = Keyword.Reserved
+  // .kv = Keyword
+  .k,
+  .kc,
+  .kd,
+  .kn,
+  .kp,
+  .kr,
+  .kv {
+    color: $color-code-keyword;
+  }
+
+  // .kt = Keyword.Type
+  .kt {
+    color: $color-code-type;
+  }
+
+  // .n  = Name
+  // .nb = Name.Builtin
+  // .bp = Name.Builtin.Pseudo
+  // .ni = Name.Entity
+  // .nn = Name.Namespace
+  // .nx = Name.Other
+  .n,
+  .nb,
+  .bp,
+  .ni,
+  .nn,
+  .nx {}
+
+  // .na = Name.Attribute
+  // .no = Name.Constant
+  // .nv = Name.Variable
+  // .vc = Name.Variable.Class
+  // .vg = Name.Variable.Global
+  // .vi = Name.Variable.Instance
+  .na,
+  .no,
+  .nv,
+  .vc,
+  .vg,
+  .vi {
+    color: $color-code-field;
+  }
+
+  // .nc = Name.Class
+  // .ne = Name.Exception
+  // .nt = Name.Tag
+  .nc,
+  .ne,
+  .nt {
+    color: $color-code-type;
+  }
+
+  // .nd = Name.Decorator
+  .nd {
+    color: $color-code-decorator;
+  }
+
+  // .nf = Name.Function
+  .nf {
+    color: $color-code-function;
+  }
+
+  // .nl = Name.Label
+  .nl {
+    color: $color-code-label;
+  }
+
+  // .py = Property
+  .py {}
+
+  // .s  = String
+  // .sb = String.Backtick
+  // .sc = String.Char
+  // .sd = String.Doc
+  // .s2 = String.Double
+  // .sh = String.Heredoc
+  // .sx = String.Other
+  // .sr = String.Regex
+  // .s1 = String.Single
+  // .ss = String.Symbol
+  .s,
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .sr,
+  .s1,
+  .ss {
+    color: $color-code-string;
+  }
+
+  // .se = String.Escape
+  // .si = String.Interpol
+  .se,
+  .si {
+    color: $color-code-keyword;
+  }
+
+  // .m  = Number
+  // .mb = Number.Bin
+  // .mf = Number.Float
+  // .mh = Number.Hex
+  // .mi = Number.Integer
+  // .il = Number.Integer.Long
+  // .mo = Number.Oct
+  // .mx = Number.Other
+  .m,
+  .mb,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo,
+  .mx {
+    color: $color-code-number;
+  }
+
+  // .o  = Operator
+  // .ow = Operator.Word
+  .o,
+  .ow {}
+
+  // .p  = Punctuation
+  .p {}
+
+  // .g  = Generic
+  .g {}
+
+  // .gd = Generic.Deleted
+  .gd {
+    background-color: $color-code-diff-deleted;
+  }
+
+  // .ge = Generic.Emph
+  .ge {
+    font-style: italic;
+  }
+
+  // .gr = Generic.Error
+  // .gt = Generic.Traceback
+  .gr,
+  .gt {
+    color: $color-code-generic-error;
+  }
+
+  // .gh = Generic.Heading
+  .gh {
+    color: $color-code-generic-heading;
+  }
+
+  // .gi = Generic.Inserted
+  .gi {
+    background-color: $color-code-diff-inserted;
+  }
+
+  // .go = Generic.Output
+  .go {
+    color: $color-code-generic-output;
+  }
+
+  // .gp = Generic.Prompt
+  .gp {
+    color: $color-code-generic-prompt;
+  }
+
+  // .gs = Generic.Strong
+  .gs {
+    font-style: bold;
+  }
+
+  // .gu = Generic.Subheading
+  .gu {
+    color: $color-code-generic-subheading;
+  }
+}
