@@ -1,9 +1,9 @@
 <scheme name="LordCodes Syntax" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-09-18T23:08:54</property>
+    <property name="created">2018-12-03T20:41:19</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.1.4.0</property>
-    <property name="modified">2018-09-18T23:09:05</property>
+    <property name="ideVersion">3.2.1.0</property>
+    <property name="modified">2018-12-03T20:41:26</property>
     <property name="originalScheme">LordCodes Syntax</property>
   </metaInfo>
   <attributes>
@@ -13,6 +13,11 @@
       </value>
     </option>
     <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="929292" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="fbc02d" />
@@ -20,15 +25,15 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="929292" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="7d7d7d" />
+        <option name="FOREGROUND" value="929292" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="7d7d7d" />
+        <option name="EFFECT_COLOR" value="929292" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -42,7 +47,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="677dfe" />
+        <option name="FOREGROUND" value="7488ff" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -78,6 +83,11 @@
         <option name="FOREGROUND" value="cb7c7e" />
       </value>
     </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="929292" />
+      </value>
+    </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -85,7 +95,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="da684e" />
+        <option name="FOREGROUND" value="d47964" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -101,13 +111,13 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="677dfe" />
+        <option name="FOREGROUND" value="7488ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="fd2b78" />
+        <option name="FOREGROUND" value="ff4d8e" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -123,7 +133,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="fd2b78" />
+        <option name="FOREGROUND" value="ff4d8e" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
@@ -143,7 +153,7 @@
     </option>
     <option name="IGNORE.NEGATION">
       <value>
-        <option name="FOREGROUND" value="fd2b78" />
+        <option name="FOREGROUND" value="ff4d8e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -162,7 +172,7 @@
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="677dfe" />
+        <option name="FOREGROUND" value="7488ff" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -184,7 +194,7 @@
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="677dfe" />
+        <option name="FOREGROUND" value="7488ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
