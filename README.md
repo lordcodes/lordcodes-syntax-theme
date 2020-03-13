@@ -1,4 +1,4 @@
-# Lord Codes Syntax 🖍 ⌨️
+# Lord Codes Syntax
 
 The colour theme I use for source code.
 
@@ -12,7 +12,7 @@ The theme is designed for 'dark' interfaces, starting from the base of the defau
 
 Please feel free to use the theme if you wish, or alter it to your liking. The theme is not final and I will be tweaking it over time. The theme can always be considered a work-in-progress.
 
-## Android Studio / IntelliJ 🤖
+## Android Studio / IntelliJ
 
 Started from the default Android Studio Darcula theme, keeping the same background colour and using Roboto Mono font.
 
@@ -39,7 +39,7 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 4. Next to 'Scheme' select the cog and `Import Scheme...`
 5. Select either `LordCodes-Syntax.jar` or `LordCodes-Syntax.icls`, either should work the same.
 
-## Xcode 📱
+## Xcode
 
 Started from the default Xcode dark theme, so uses the same background colour as this and uses SF Mono font.
 
