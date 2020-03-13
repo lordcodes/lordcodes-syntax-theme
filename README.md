@@ -1,4 +1,6 @@
-# Lord Codes Syntax - A code colour theme 🖍 ⌨️
+# Lord Codes Syntax 🖍 ⌨️
+
+The colour theme I use for source code.
 
 Here I store the code theme I use in a variety of formats.
 
@@ -12,9 +14,9 @@ Please feel free to use the theme if you wish, or alter it to your liking. The t
 
 ## Android Studio / IntelliJ 🤖
 
-Started from the default Darcula theme, so uses the same background colour as this and uses Roboto Mono font.
+Started from the default Android Studio Darcula theme, keeping the same background colour and using Roboto Mono font.
 
-Optimised for Kotlin and Java, but colours also provided for other syntax types. Much of the styling is in the defaults and so would apply to potentially other languages / syntax as well, just not optimised.
+The theme is optimised for Kotlin and Java, but as colours are provided for the generic syntax types it may apply to other languages or file types as well.
 
 - Kotlin
 - Java
@@ -39,9 +41,9 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 
 ## Xcode 📱
 
-Started from the default Xcode 10 dark theme, so uses the same background colour as this and uses SF Mono font.
+Started from the default Xcode dark theme, so uses the same background colour as this and uses SF Mono font.
 
-Primarily optimised for Swift, but should also apply in same way to Obj-C.
+Primarily optimised for Swift, but should apply in the same way to Objective-C.
 
 ### Usage
 
@@ -54,6 +56,7 @@ $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 3. Copy the file `xcode/LordCodes-Syntax.xccolortheme` into the folder.
+4. Select it within Xcode.
 
 ## Web - Rouge CSS
 
@@ -66,15 +69,6 @@ Includes the SASS files for applying the syntax theme on web, using the [Rouge s
 $ git clone https://github.com/lordcodes/lordcodes-syntax-theme.git
 ```
 2. Copy and paste the files from `web-rouge` to your project's SASS location.
-
-## Attribution
-
-Inspiration was taken from many sources when putting the theme together. This included how to constrast pairs of colours, ideas for colours to go with for certain parts of syntax to specific colours selected for the theme. There may be other areas of indirect inspiration as well! If you recognise anything in my theme from something of yours, please reach me on [Twitter](https://twitter.com/lordcodes) and I will add you below.
-
-- Dark theme at https://romannurik.github.io/SlidesCodeHighlighter/ - thanks to [@romannurik](https://github.com/romannurik)
-- SundellColors at https://github.com/JohnSundell/XcodeTheme - thanks to [@johnsundell](https://github.com/JohnSundell)
-- Darcula theme in Android Studio
-- Default (Dark) theme in Xcode 10
 
 ## Author
 
