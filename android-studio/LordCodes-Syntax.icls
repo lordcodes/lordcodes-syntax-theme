@@ -1,9 +1,9 @@
 <scheme name="LordCodes Syntax" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-12-03T20:41:19</property>
+    <property name="created">2021-12-04T00:29:25</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2018-12-03T20:41:26</property>
+    <property name="ideVersion">2020.3.1.25</property>
+    <property name="modified">2021-12-04T00:29:48</property>
     <property name="originalScheme">LordCodes Syntax</property>
   </metaInfo>
   <attributes>
@@ -162,8 +162,6 @@
         <option name="FOREGROUND" value="4dd0e1" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="1" />
